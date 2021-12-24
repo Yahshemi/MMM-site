@@ -9,12 +9,12 @@ body {
 
 a {
 
-  color: #6A80B8 ;
+  color: #03386e ;
   text-decoration: none;
 }
 
 a:hover {
-  color: #6A80B8;
+  color: #03386e;
   text-decoration: none;
 }
 
@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #6A80B8;
+  background: #18BC9C;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #CAD2E8;
+  background: #3dddbd;
   color: #fff;
 }
 .back-to-top.active {
@@ -269,7 +269,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #111111;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #6A80B8;
+  color: #03386e;
 }
 .navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
   margin: 15px;
@@ -295,7 +295,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #6A80B8;
+  color: #03386e;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
@@ -397,7 +397,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #CAD2E8;
+  background: #18BC9C;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -540,7 +540,7 @@ section {
 /*--------------------------------------------------------------
 # Tabs
 --------------------------------------------------------------*/
-/* .tabs .nav-tabs {
+.tabs .nav-tabs {
   border: 0;
 }
 .tabs .nav-link {
@@ -607,7 +607,7 @@ section {
 }
 .tabs .tab-pane p:last-child {
   margin-bottom: 0;
-} */
+}
 
 /*--------------------------------------------------------------
 # Services
@@ -780,10 +780,10 @@ section {
 }
 .contact .info-box i {
   font-size: 32px;
-  color: #A8C0FF;
+  color: #18BC9C;
   border-radius: 50%;
   padding: 8px;
-  border: 2px dotted #A8C0FF;
+  border: 2px dotted #18BC9C;
 }
 .contact .info-box h3 {
   font-size: 20px;
@@ -877,7 +877,7 @@ section {
   display: block;
   width: 20px;
   height: 2px;
-  background: #8E8FE8;
+  background: #18BC9C;
   bottom: 0;
   left: 0;
 }
@@ -944,7 +944,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #A8C0FF;
+  background: #18BC9C;
   color: #fff;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
